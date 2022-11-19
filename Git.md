@@ -37,7 +37,8 @@
 
 > **git branch** - посмотреть список веток в репозитории  
 > **git branch "branch_name"** - создать новую ветку  
-> **git branch -d "branch_name"** - удалить ветку
+> **git branch -d "branch_name"** - удалить ветку  
+> **git branch -D "branch_name"** - принудительное удаление указанной ветки, даже если в ней есть неслитые изменения
 
 ## __git merge__
 
