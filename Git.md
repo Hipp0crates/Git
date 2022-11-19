@@ -37,5 +37,7 @@
 
 ## __git merge__
 
+> **git merge --abort** - отменить слияние с конфликтом
+
 ![THE END](./images/the_end.jpg "продолжение на следующем задании")  
  Руководство по [Git / Github / Gitflow](https://proglib.io/p/git-github-gitflow/ "ссылка") простыми словами
