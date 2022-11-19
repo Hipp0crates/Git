@@ -42,6 +42,7 @@
 
 ## __git merge__
 
+> **git merge "branch_name"** - слияние текущей ветки с "branch_name"  
 > **git merge --abort** - отменить слияние с конфликтом
 
 ![THE END](./images/the_end.jpg "продолжение на следующем задании")  
