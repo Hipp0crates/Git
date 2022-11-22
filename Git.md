@@ -45,5 +45,12 @@
 > **git merge "branch_name"** - слияние текущей ветки с "branch_name"  
 > **git merge --abort** - отменить слияние с конфликтом
 
+## __git push__
+
+> **git push** - отправляет данные в удаленный репозиторий  
+> **git push origin main** - здесь `origin` - псевдоним (имя) удаленного репозитория, `main` - имя локальной ветки, которая отправляется в удаленный репозиторий  
+> **git push -u origin main** флаг `-u` означает, что текущая ветка связывается с удаленной и в следующий раз можно писать просто `git push` вместо `git push origin main`  
+> **git push origin main:new** - `main` имя локальной ветки, а `new` имя удаленной ветки, в которую отправится ваша ветка `main`
+
 ![THE END](./images/the_end.jpg "продолжение на следующем задании")  
  Руководство по [Git / Github / Gitflow](https://proglib.io/p/git-github-gitflow/ "ссылка") простыми словами
